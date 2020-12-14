@@ -12,11 +12,11 @@
     "require": {
         "guzzlehttp/guzzle": "^7.2.0",
         "guzzlehttp/guzzle-services": "*"
-
     },
     "autoload": {
         "psr-4": {
             "Ranium\\Fixerio\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
